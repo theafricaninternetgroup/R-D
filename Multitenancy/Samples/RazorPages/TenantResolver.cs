@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using System.Linq;
 using Multitenancy.Library;
-namespace Multitenancy.Web
+namespace Multitenancy.Web.RazorPages
 {
     public class TenantResolver :ITenantResolver<Tenant>
     {
