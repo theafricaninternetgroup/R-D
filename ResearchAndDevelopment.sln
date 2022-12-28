@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitenancy.Library", "Multitenancy\Multitenancy.Library\Multitenancy.Library.csproj", "{7CDC1B96-1F31-47C7-98CA-7C5024B11EE2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitenancy.Web", "Multitenancy\Samples\RazorPages\Multitenancy.Web.csproj", "{E2939ABF-7658-4BB9-A069-AD138313B248}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitenancy.Web.RazorPages", "Multitenancy\Samples\RazorPages\Multitenancy.Web.RazorPages.csproj", "{E2939ABF-7658-4BB9-A069-AD138313B248}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

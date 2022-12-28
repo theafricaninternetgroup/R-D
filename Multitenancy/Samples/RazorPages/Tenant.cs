@@ -1,4 +1,4 @@
-﻿namespace Multitenancy.Web
+﻿namespace Multitenancy.Web.RazorPages
 {
     public class Tenant
     {
